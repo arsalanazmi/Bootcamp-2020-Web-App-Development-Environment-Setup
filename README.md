@@ -10,10 +10,12 @@
     https://nodejs.org/en/download/
 
 4. Install Surge by using following command.
-  npm install --global surge
+  
+    npm install --global surge
 
 5. Generate Surge token by the following command.
-  surge token
+  
+    surge token
   
 6. Save the surge token in the repo's GitHubs secrets.
 
